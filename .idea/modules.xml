@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/DietMangementSystemBasedOnImageRecognition.iml" filepath="$PROJECT_DIR$/DietMangementSystemBasedOnImageRecognition.iml" group="DietMangementSystemBasedOnImageRecognition" />
+      <module fileurl="file://$PROJECT_DIR$/app/DietMangementSystemBasedOnImageRecognition-app.iml" filepath="$PROJECT_DIR$/app/DietMangementSystemBasedOnImageRecognition-app.iml" group="DietMangementSystemBasedOnImageRecognition/app" />
       <module fileurl="file://$PROJECT_DIR$/Kaluli-master.iml" filepath="$PROJECT_DIR$/Kaluli-master.iml" group="Kaluli-master" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Kaluli-master/app" />
     </modules>
